@@ -11,6 +11,7 @@ public class Program {
 		SellerDao sellerDao = DaoFactory.createSellerDao(); // Interface sendo
 		// implementada pela classe
 		
+		System.out.println("=== TEST 1: seller findById ====");
 		Seller seller = sellerDao.findById(3);
 		
 		System.out.println(seller);
