@@ -18,7 +18,7 @@ Os métodos implementados são:
 ## **Uso**
 
 Para usar este projeto, primeiramente você precisará executar o arquivo database.sql para criar as tabelas `department` e `seller`.
-Após, necessitará configurar a sua conexão com o banco de dados que se encontra no arquivo `db.properties` e alterar o seu host e password.
+Após, necessitará configurar a sua conexão com o banco de dados que se encontra no arquivo `db.properties` e alterar o seu user e password.
 
 ## **Sugestão**
 Você pode adicionar ou remover métodos nas interfaces departmentDAO e sellerDao conforme necessário.
