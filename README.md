@@ -1,7 +1,8 @@
 # Demo DAO JDBC
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCecyn/demo-dao-jdbc/blob/main/LICENSE)  
 
-Este repositório contém um exemplo de como acessar o banco de dados MySQL usando Java e o padrão de projeto DAO (Data Access Object). O projeto utiliza duas tabelas, `department` e `seller`.
+# Sobre o projeto
+Demo DAO JDBC é um exemplo de como acessar o banco de dados MySQL usando Java e o padrão de projeto DAO (Data Access Object). O projeto utiliza duas tabelas, `department` e `seller`.
 
 ## **Tabelas**
 
