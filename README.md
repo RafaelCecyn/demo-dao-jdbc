@@ -19,7 +19,7 @@ Pré-requisitos: Java 17
 ```bash
 # clonar repositório
 git clone https://github.com/RafaelCecyn/demo-dao-jdbc
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto
 cd src
 # executar o projeto
 entrar na classe Program e run
