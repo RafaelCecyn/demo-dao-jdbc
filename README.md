@@ -33,7 +33,7 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-
+git clone https://github.com/RafaelCecyn/demo-dao-jdbc
 ```
 
 # Autor
